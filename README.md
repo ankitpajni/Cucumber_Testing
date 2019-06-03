@@ -11,3 +11,5 @@ Web automation testing through cucumber
   
   
   =>Now install the software required for feature file (gherkin language) link is:  http://cucumber.github.com/cucumber-eclipse/update-site
+
+by going to help > install new softwares in eclipse environment.
